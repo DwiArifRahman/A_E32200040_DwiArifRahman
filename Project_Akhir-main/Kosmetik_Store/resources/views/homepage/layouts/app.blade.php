@@ -1,0 +1,5 @@
+@include('homepage/layouts/style')
+@include('homepage/layouts/header')
+@yield('content')
+@include('homepage/layouts/footer')
+@include('homepage/layouts/script')
